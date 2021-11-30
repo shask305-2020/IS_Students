@@ -170,6 +170,9 @@ namespace IS_Students
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
             this.Margin = new System.Windows.Forms.Padding(2);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(500, 350);
+            this.MinimumSize = new System.Drawing.Size(500, 350);
             this.Name = "Form2";
             this.Padding = new System.Windows.Forms.Padding(11, 60, 11, 11);
             this.Text = "Информация о студенте";
