@@ -116,6 +116,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MetroFramework.txt" />
+    <Content Include="sql\City.sql" />
+    <Content Include="sql\Gender.sql" />
+    <Content Include="sql\Student.sql" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
